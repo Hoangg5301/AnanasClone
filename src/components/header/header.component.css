@@ -1,0 +1,13 @@
+.color-navbar{
+    background-color: #303030;
+}
+.navbar-custom{
+    max-height: 30px;
+    padding-right: 6rem;
+    margin-bottom: 2rem;
+}
+
+.navbar-font-cus{
+    font-family:  NunitoSanRegular;
+    font-size: 12px;
+}
