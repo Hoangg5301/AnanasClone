@@ -1,13 +1,59 @@
+.padding-top-custom{
+  padding-top: 1rem;
+}
 .color-navbar{
     background-color: #303030;
 }
 .navbar-custom{
     max-height: 30px;
     padding-right: 6rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .navbar-font-cus{
     font-family:  NunitoSanRegular;
     font-size: 12px;
+}
+
+.logo-header{
+  float: right;
+  margin-right: 4rem;
+}
+
+.row-custom-3{
+  background-color: #f1f1f1;
+}
+
+.narbar-search-custom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.serach-input-custom{
+  width: 28rem;
+  height: 4rem;
+  border-color: #303030;
+  font-size: 14px;
+}
+
+.menu-navbar-custom{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+  font-family: GeometricExtraBold !important;
+  padding: 0rem 15rem 0rem 15rem;
+
+}
+
+.menu-navbar-custom div a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line{
+  border-right: #e3e2e2 2px solid;
+  height: 30%;
 }
