@@ -53,6 +53,12 @@
   justify-content: center;
 }
 
+/* padding i tag */
+.menu-navbar-custom div a i{
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+}
+
 .line{
   border-right: #e3e2e2 2px solid;
   height: 30%;
